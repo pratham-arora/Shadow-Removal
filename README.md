@@ -1,5 +1,5 @@
 # Shadow-Removal
-| **Name** |  |
+| **Coded by** |  |
 | --- | --- |
 | Pratham Arora | B.Tech, ECE, IITG |
 | Vusuvandla Khagesh Kumar | B.Tech, ECE, IITG |
@@ -21,14 +21,6 @@ Shadows in an image can be defined as parts of the scene that are not directly i
 
 | _Input Image_ | _Shadow free image_ |
 | --- | --- |
-| ![](RackMultipart20210620-4-1ga6len_html_cc84e1ae53e4255f.png)
- | ![](RackMultipart20210620-4-1ga6len_html_415a3ccd558242f5.jpg)
-
- |
-| ![](RackMultipart20210620-4-1ga6len_html_5b9e06d068e5b601.png)
- | ![](RackMultipart20210620-4-1ga6len_html_a43d920496d0c20c.jpg)
-
- |
-| ![](RackMultipart20210620-4-1ga6len_html_42ac50e310ae523c.jpg)
- | ![](RackMultipart20210620-4-1ga6len_html_1a39443797eda6c1.jpg)
- 
+| | |
+| | |
+| | |
