@@ -21,6 +21,7 @@ Shadows in an image can be defined as parts of the scene that are not directly i
 
 | _Input Image_ | _Shadow free image_ |
 | --- | --- |
-| | |
-| | |
-| | |
+| ![shadowtest1](https://user-images.githubusercontent.com/45618170/122661758-7a83c180-d1ab-11eb-883d-51114f89b93f.png) | ![shadowtest1_result](https://user-images.githubusercontent.com/45618170/122661778-a43ce880-d1ab-11eb-989f-052d4f4e7d40.jpg) |
+| ![shadowtest2](https://user-images.githubusercontent.com/45618170/122661760-8079a280-d1ab-11eb-91b4-88eaa812cca8.png) | ![shadowtest2_result](https://user-images.githubusercontent.com/45618170/122661774-a1da8e80-d1ab-11eb-9456-31a9aaa66ad0.jpg) |
+| ![shadowtest3](https://user-images.githubusercontent.com/45618170/122661762-87081a00-d1ab-11eb-825b-64021eff9f49.png) | ![shadowtest3_result](https://user-images.githubusercontent.com/45618170/122661775-a30bbb80-d1ab-11eb-8f87-9638c1fd2452.jpg) |
+| ![shadowtest4](https://user-images.githubusercontent.com/45618170/122661763-8b343780-d1ab-11eb-9d56-f7961dea1420.png) | ![shadowtest4_result](https://user-images.githubusercontent.com/45618170/122661776-a3a45200-d1ab-11eb-94cc-2da9a33e4698.jpg) |
